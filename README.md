@@ -7,5 +7,5 @@ You should work with "https://github.com/tensorflow/models"
 Put those code in directory models/slim
 
 
-You can easily classify images with TF-Slim and these code.
-Before that, I recommend to read "CPS-2.HowtouseTF-Slim-230817-1538-20" first
+You can easily classify images with TF-Slim and these code.<br/>
+Before that, I recommend to read "CPS-2.HowtouseTF-Slim-230817-1538-20" first.
